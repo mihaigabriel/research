@@ -32,3 +32,5 @@ https://www.connectedpapers.com
 
 5. Researchrabbit
 https://www.researchrabbit.ai
+
+Scite.ai
