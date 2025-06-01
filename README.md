@@ -16,6 +16,7 @@ https://paperswithcode.com
 Reference Manager
 1. Mendeley https://www.mendeley.com/reference-management/reference-manager
 2. Zotero https://www.zotero.org
+3. Mybib https://www.mybib.com
 
 Bibliometric Analysis
 1. VosViewer
