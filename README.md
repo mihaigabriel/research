@@ -10,6 +10,12 @@ https://github.com/0x01h/sci-hub-now
 Google Scholar PDF Reader - Supercharge your paper reading: follow references, skim outline, jump to figures, cite and save.
 https://chromewebstore.google.com/detail/google-scholar-pdf-reader/dahenjhkoodjbpjheillcadbppiidmhp?hl=en
 
+ExCITATION journal ranking in Google Scholar
+https://chromewebstore.google.com/detail/excitation-journal-rankin/aolbomhlimkdakklifkocohcgpmojdia
+
+Rapid Journal Quality Check
+https://chromewebstore.google.com/detail/rapid-journal-quality-che/mfkbhgdamgfcifnhcdebfahkgnbkagmo
+
 Get papers with code
 https://paperswithcode.com
 
@@ -35,5 +41,7 @@ https://www.connectedpapers.com
 https://www.researchrabbit.ai
 
 Scite.ai
+Jenni.ai
 
 https://learn-anything.xyz
+https://github.com/AykutSarac/jsoncrack.com
